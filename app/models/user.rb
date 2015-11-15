@@ -3,5 +3,5 @@ class User < ActiveRecord::Base
       :class_name => "Friendship"
      has_many :users, :through => :friendships
      has_many :posts
-     has_many :comments, :through => :posts
+     has_many :comments
 end
