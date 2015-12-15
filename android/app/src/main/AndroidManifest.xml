@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="foodbook.foodbook">
-
-    <!-- To auto-complete the email text field in the login form with the user's emails -->
-    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-    <uses-permission android:name="android.permission.READ_PROFILE" />
-    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    package="foodbook.milestone3">
 
     <application
         android:allowBackup="true"
@@ -13,19 +8,11 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".HomePage" />
-        <activity android:name=".SignIn" />
-        <activity android:name=".UserProfile" />
         <activity
-            android:name=".Test1"
-            android:label="@string/title_activity_test1"
+            android:name=".test"
+            android:label="@string/title_activity_test"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".FriendLists" />
-        <activity android:name=".EditProfile" />
-        <activity android:name=".ChangePassword" />
-        <activity android:name=".AddFriend" />
-        <activity android:name=".TimeLine" />
-        <activity android:name=".FriendProfile"></activity>
+        <activity android:name=".MainActivity"></activity>
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-package foodbook.foodbook;
+package foodbook.milestone3;
 
 import org.junit.Test;
 

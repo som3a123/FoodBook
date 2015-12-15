@@ -1,13 +1,13 @@
-package foodbook.foodbook;
+package foodbook.milestone3;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class FriendProfile extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_friend_profile);
+        setContentView(R.layout.activity_main);
     }
 }
