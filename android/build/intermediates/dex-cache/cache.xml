@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ahmed/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_d2e667665627eddabf0319d788096fcf0f7ee965.jar" />
+    </item>
+    <item
+        jar="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_673df0e8b1312ccad719569cd2aceb9a9f21c691.jar" />
+    </item>
+    <item
+        jar="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_360629370b9788c89c799557f7d3caac05eb02a9.jar" />
+    </item>
+    <item
+        jar="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_c2d9a36b01a9d3030583ad7c0c8d3474ab024db4.jar" />
+    </item>
+    <item
+        jar="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_6b9f57e66aa5eccb39759db29de18d334f1ac64d.jar" />
+    </item>
+    <item
+        jar="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/ahmed/StudioProjects/FoodBook/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_7f08f45017faaa84de22526c9269b48e667b170e.jar" />
+    </item>
+
+</items>
